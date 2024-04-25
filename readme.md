@@ -67,7 +67,7 @@ exPeriences secTion:
 
 conTacT secTion: 
 
-![]/(./images/Aspose.Words.b28dc751-5ae9-49c5-8cb1-6e17ea09f8e2.012.jpeg)
+![](./images/Aspose.Words.b28dc751-5ae9-49c5-8cb1-6e17ea09f8e2.012.jpeg)
 
 FooTer; 
 
